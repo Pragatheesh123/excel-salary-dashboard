@@ -35,7 +35,8 @@ An interactive Excel dashboard that analyzes **median salaries, job counts, and 
 
 ## 📁 Data Source
 
-![Raw Data Table](data_table.png)
+![Raw Data Table](<img width="1894" height="680" alt="Screenshot 2026-03-10 221125" src="https://github.com/user-attachments/assets/f7ccb343-36c1-4b1d-8381-c267d875321b" />
+)
 
 The dataset contains **275+ job postings** with the following columns:
 
@@ -45,7 +46,8 @@ The dataset contains **275+ job postings** with the following columns:
 
 ## 🌍 Salary by Country
 
-![Country Salary Breakdown](country_salary.png)
+![Country Salary Breakdown](<img width="289" height="433" alt="Screenshot 2026-03-10 221150" src="https://github.com/user-attachments/assets/be15054c-807a-4ed6-a4b4-a32d22b65f9a" />
+)
 
 Median salaries vary significantly by country. The dashboard includes data from **100+ countries**, with the United Kingdom clocking in at **$78,922** median for Data Analyst roles.
 
@@ -53,7 +55,8 @@ Median salaries vary significantly by country. The dashboard includes data from 
 
 ## 🔗 Job Platforms Tracked
 
-![Platform Data](platform_data.png)
+![Platform Data](<img width="785" height="651" alt="Screenshot 2026-03-10 221209" src="https://github.com/user-attachments/assets/c683d7ef-0515-40d7-a0a7-cc9a4db4056a" />
+)
 
 The dashboard tracks job postings across **20+ platforms** including LinkedIn, Indeed, ZipRecruiter, Ai-Jobs.net, Snagajob, Ladders, and more — surfacing which platform dominates for your selected role and country.
 
