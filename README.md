@@ -13,7 +13,8 @@ An interactive Excel dashboard that analyzes **median salaries, job counts, and 
 
 ## 🖥️ Dashboard Overview
 
-![Jobs Salary Dashboard](dashboard_main.png)
+![Jobs Salary Dashboard](<img width="1515" height="669" alt="Screenshot 2026-03-10 215722" src="https://github.com/user-attachments/assets/b3dcd727-d517-4538-8f38-da7cc9269af7" />
+)
 
 > Filter by **Job Title**, **Country**, and **Schedule Type** to instantly update all charts and KPIs. The dashboard shows median salary, top job platform, and job count for any combination.
 
