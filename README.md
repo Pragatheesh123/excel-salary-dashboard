@@ -6,7 +6,8 @@ An interactive Excel dashboard that analyzes **median salaries, job counts, and 
 
 ## 🎬 Live Demo
 
-![Dashboard Demo](dashboard_demo.gif)
+![Dashboard Demo](![Video Project](https://github.com/user-attachments/assets/617c38ec-240e-4c65-be0b-d9bb71f1fcf8)
+)
 
 ---
 
